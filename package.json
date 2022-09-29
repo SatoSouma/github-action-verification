@@ -1,0 +1,19 @@
+{
+  "name": "github-action-verification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatoSouma/github-action-verification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatoSouma/github-action-verification/issues"
+  },
+  "homepage": "https://github.com/SatoSouma/github-action-verification#readme"
+}
